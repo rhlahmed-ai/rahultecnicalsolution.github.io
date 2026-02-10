@@ -86,7 +86,7 @@
 <section id="contact" class="section">
     <h2 class="section-title">Humse Sampark Karein</h2>
     <div class="contact-info">
-        <p><strong><i class="fas fa-phone"></i> Call/WhatsApp:</strong> 9126847309 / 9085823754</p>
+        <p><strong><i class="fas fa-phone"></i> Call/WhatsApp:</strong> 9126847309 / 9085823753</p>
         <p><strong><i class="fas fa-envelope"></i> Email:</strong> rahul.tech.sol@gmail.com</p>
         <p><strong><i class="fas fa-map-marker-alt"></i> Location:</strong> India (Global Remote Service)</p>
     </div>
